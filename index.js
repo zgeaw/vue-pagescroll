@@ -14,7 +14,8 @@
             beforeChange(data){},
             afterChange(data){}
         },
-        install(Vue, options){        
+        install(Vue, options){   
+            Vue.prototype.$pageScroll = this;      
             Vue.directive('fullpage', {
                 inserted: (el, binding, vnode) => {
                     let opts = binding.value || {}

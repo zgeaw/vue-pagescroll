@@ -69,6 +69,10 @@ export default {
         duration: 500
       }
     }
+  },
+  methods: {
+    //跳转到第三页
+    this.$pageScroll.moveTo(2)
   }
 }
 ```

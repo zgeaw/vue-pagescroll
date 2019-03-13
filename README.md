@@ -74,6 +74,10 @@ export default {
         }
       }
     }
+  },
+  methods: {
+    //跳转到第三页
+    this.$pageScroll.moveTo(2)
   }
 }
 ```
