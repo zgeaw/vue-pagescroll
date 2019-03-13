@@ -1,6 +1,6 @@
 {
   "name": "vue-pagescroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a single page scroll plugin for vue.js ",
   "main": "index.js",
   "scripts": {

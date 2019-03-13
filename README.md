@@ -27,7 +27,7 @@ Import the plugin of css and js file in main.js
 
 ```js
 import 'animate.css'
-import 'vue-pagescroll/vue-pagescroll.css'
+import 'vue-pagescroll/index.css'
 import vue-pagescroll from 'vue-pagescroll'
 Vue.use(vue-pagescroll)
 ```
