@@ -77,7 +77,7 @@
                 }
             }
             if(JSON.stringify(opt) != '{}'){
-                this.opt = opt
+                Object.assign(this.opt, opt)
             }
         },
         initScrollDirection(){
