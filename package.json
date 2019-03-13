@@ -1,0 +1,25 @@
+{
+  "name": "vue-pagescroll",
+  "version": "1.0.0",
+  "description": "a single page scroll plugin for vue.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgeaw/vue-pagescroll.git"
+  },
+  "keywords": [
+    "vue",
+    "scroll",
+    "single",
+    "page"
+  ],
+  "author": "hello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zgeaw/vue-pagescroll/issues"
+  },
+  "homepage": "https://github.com/zgeaw/vue-pagescroll#readme"
+}
