@@ -194,7 +194,7 @@
             return fullpage
         })
     } else if (window.Vue) {
-        window.VueFullpage = fullpage
+        window.VuePageScroll = fullpage
         Vue.use(fullpage)
     }
 })()

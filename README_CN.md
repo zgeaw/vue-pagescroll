@@ -26,9 +26,10 @@ npm install animate.css --save
 在main.js需要引入该插件的css和js文件
 
 ```js
-import 'vue-fullpage/index.css'
-import VueFullpage from 'vue-fullpage'
-Vue.use(VueFullpage)
+import 'animate.css'
+import 'vue-pagescroll/index.css'
+import VuePageScroll from 'vue-pagescroll'
+Vue.use(VuePageScroll)
 ```
 
 #### app.vue
