@@ -1,4 +1,4 @@
-# vue-fullpage
+# vue-pagescroll
 
 README：[中文版](https://github.com/zgeaw/vue-pagescroll/blob/master/README_CN.md)
 > A sigle-page scroll plugin based on vue.js

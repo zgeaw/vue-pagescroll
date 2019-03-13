@@ -1,10 +1,8 @@
-# vue-fullpage
+# vue-pagescroll
 
-README：[English Version](https://github.com/wendaosanshou/vue-fullpage/blob/master/README.md)
+README：[English Version](https://github.com/zgeaw/vue-pagescroll/blob/master/README.md)
 > 一个基于vue.js的页面滚动插件
 
-## 线上demo
-这里有一个[线上的demo](http://vue.fecss.com/vue-fullpage/)和一个[jsfiddle demo](https://jsfiddle.net/wendaosanshou/4b6p5ujt/12/)
 
 ## 功能概述
 实现了移动端的单页滚动效果，支持横向滚动和纵向滚动，支持animate.css里的所有动画指令
@@ -20,7 +18,7 @@ npm install animate.css --save
 [animate.css用法](https://daneden.github.io/animate.css/)
 
 ## 文档
-[api文档](https://github.com/wendaosanshou/vue-fullpage/blob/master/doc/api_cn.md)
+[api文档](https://github.com/zgeaw/vue-pagescroll/blob/master/doc/api_cn.md)
 
 ## 快速上手
 
@@ -59,7 +57,7 @@ Vue.use(VueFullpage)
 
 **js**
 
-``vue-fullpage``的值请参考[api文档](https://github.com/wendaosanshou/vue-fullpage/blob/master/doc/api_cn.md)
+``vue-fullpage``的值请参考[api文档](https://github.com/zgeaw/vue-pagescroll/blob/master/doc/api_cn.md)
 ```js
 export default {
   data() {
